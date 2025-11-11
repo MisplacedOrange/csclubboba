@@ -1,2 +1,0 @@
-# csclubboba
-blud
