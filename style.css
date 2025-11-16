@@ -74,6 +74,20 @@ main{
     height: 100%;
     object-fit: cover;
 }
+
+@media (max-width: 845px){
+    .header{
+        font-size: 128px;
+    }
+    .button{
+        font-size: 24px;
+    }
+    .button2{
+        font-size: 12px;
+    }
+}
+
+
 @keyframes autoRun{
     from{
         left: 100%;
